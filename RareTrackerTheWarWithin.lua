@@ -73,6 +73,27 @@ if RareTracker.db.global.window.force_display_in_english then
     L[221179] = "Duskshadow"
     L[207826] = "Ravageant"
     L[220771] = "Murkspike"
+    
+    -- Azj'Kahet
+    L[216031] = "Abyssal Devourer"
+    L[214151] = "Ahg'zagall"
+    L[216037] = "Vilewing"
+    L[216039] = "Xishorr"
+    L[216034] = "The XT-Minecrusher 8700"
+    L[216043] = "Monstrous Lasharoth"
+    L[216045] = "Enduring Gutterface"
+    L[216049] = "The Oozekhan"
+    L[216051] = "Umbraclaw Matra"
+    L[216052] = "Kaheti Bladeguard"
+    L[216032] = "Rhak'ik & Khak'ik"
+    L[216041] = "Webspeaker Grik'ik"
+    L[216038] = "Chitin Hulk"
+    L[221327] = "Kaheti Silk Hauler"
+    L[216042] = "Cha'tak"
+    L[216044] = "Maddened Siegebomber"
+    L[216048] = "Jix'ak the Crazed"
+    L[216050] = "Harvester Qixt"
+    L[222624] = "Deepcrawler Tx'kesh"
 end
 
 RareTracker.RegisterRaresForModule({
@@ -181,6 +202,24 @@ RareTracker.RegisterRaresForModule({
     ["plugin_name_abbreviation"] = "TheWarWithin",
     ["entities"] = {
         --npc_id = {name, quest_id, coordinates}
-        [193632] = {L[193632], 73900, nil}, --"Wilrive"
+        [216031] = {L[216031], 81695, nil}, --"Abyssal Devourer"
+        [214151] = {L[214151], 78905, nil}, --"Ahg'zagall"
+        [216037] = {L[216037], 81700, nil}, --"Vilewing"
+        [216039] = {L[216039], 81701, nil}, --"Xishorr"
+        [216034] = {L[216034], 81703, nil}, --"The XT-Minecrusher 8700"
+        [216043] = {L[216043], 81705, nil}, --"Monstrous Lasharoth"
+        [216045] = {L[216045], 81707, nil}, --"Enduring Gutterface"
+        [216049] = {L[216049], 82035, nil}, --"The Oozekhan"
+        [216051] = {L[216051], 82037, nil}, --"Umbraclaw Matra"
+        [216052] = {L[216052], 82078, nil}, --"Kaheti Bladeguard"
+        [216032] = {L[216032], 81694, nil}, --"Rhak'ik & Khak'ik"
+        [216041] = {L[216041], 81699, nil}, --"Webspeaker Grik'ik"
+        [216038] = {L[216038], 81634, nil}, --"Chitin Hulk"
+        [221327] = {L[221327], 81702, nil}, --"Kaheti Silk Hauler"
+        [216042] = {L[216042], 81704, nil}, --"Cha'tak"
+        [216044] = {L[216044], 81706, nil}, --"Maddened Siegebomber"
+        [216048] = {L[216048], 82034, nil}, --"Jix'ak the Crazed"
+        [216050] = {L[216050], 82036, nil}, --"Harvester Qixt"
+        [222624] = {L[222624], 82077, nil}, --"Deepcrawler Tx'kesh"
     }
 })
