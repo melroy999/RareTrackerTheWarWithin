@@ -2,7 +2,7 @@
 ## Title: RareTrackerTheWarWithin
 ## Notes: Track and coordinate rare spawn timers in the zones released during the The War Within expansion.
 ## Author: Melroy
-## Version: 7.2.0
+## Version: 7.2.1
 ## Dependencies: RareTrackerCore
 ## IconTexture: Interface\AddOns\RareTrackerCore\Icons\RareTrackerIcon
 
