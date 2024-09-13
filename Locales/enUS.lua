@@ -93,3 +93,4 @@ if not L then return end
   L[216050] = "Harvester Qixt"
   L[222624] = "Deepcrawler Tx'kesh"
   L[216047] = "The One Left"
+  L[216046] = "Tka'ktath"
