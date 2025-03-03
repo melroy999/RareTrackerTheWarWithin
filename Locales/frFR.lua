@@ -41,3 +41,5 @@ L[230800] = "Pimpant le Futé"
 L[230840] = "Garçon volant Moi-Je"
 L[234499] = "Giovante"
 L[233472] = "Voltarc l’Électrique"
+    
+L[234621] = "Détritus du Gallagio"

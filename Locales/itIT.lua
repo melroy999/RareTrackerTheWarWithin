@@ -41,3 +41,5 @@ L[230800] = "Pichio il Furbo"
 L[230840] = "Asso dei Cieli Snoblin"
 L[234499] = "Giovante"
 L[233472] = "Volton il Caricato"
+    
+L[234621] = "Spazzatura del Gallagio"

@@ -153,3 +153,5 @@ L[230800] = "Slugger the Smart"
 L[230840] = "Flyboy Snooty"
 L[234499] = "Giovante"
 L[233472] = "Volstrike the Charged"
+    
+L[234621] = "Gallagio"

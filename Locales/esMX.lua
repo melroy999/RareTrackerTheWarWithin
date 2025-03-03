@@ -41,3 +41,5 @@ L[230800] = "Babosete el Listo"
 L[230840] = "Volador altanero"
 L[234499] = "Giovante"
 L[233472] = "Electrogolpe el Cargado"
+    
+L[234621] = "Basura del Gallagio"

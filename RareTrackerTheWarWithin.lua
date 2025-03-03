@@ -145,6 +145,8 @@ if RareTracker.db.global.window.force_display_in_english then
     L[230840] = "Flyboy Snooty"
     L[234499] = "Giovante"
     L[233472] = "Volstrike the Charged"
+    
+    L[234621] = "Gallagio"
 end
 
 RareTracker.RegisterRaresForModule({
@@ -361,6 +363,7 @@ RareTracker.RegisterRaresForModule({
         [230840] = {L[230840], 84911, {61.9, 10.3}}, --"Flyboy Snooty"
         [234499] = {L[234499], 86307, {31.1, 75.5}}, --"Giovante"
         [233472] = {L[233472], 85777, {63.2, 26.0}}, --"Volstrike the Charged"
+        [234621] = {L[234621], 87007, nil}, --"Gallagio"
     }
 })
 

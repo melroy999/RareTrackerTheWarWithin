@@ -41,3 +41,5 @@ L[230800] = "Larvelminte, o Esperto"
 L[230840] = "Voadeiro Petulante"
 L[234499] = "Giovante"
 L[233472] = "Raiovolt, o Carregado"
+    
+L[234621] = "Entulho do Gallagio"

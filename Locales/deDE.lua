@@ -41,3 +41,5 @@ L[230800] = "Faulpelz der Schlaue"
 L[230840] = "Fliegerjunge Schnauzi"
 L[234499] = "Giovante"
 L[233472] = "Voltschlag der Geladene"
+    
+L[234621] = "Müll des Garbagio"
